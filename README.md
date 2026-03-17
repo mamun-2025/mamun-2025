@@ -33,11 +33,9 @@ I am a dedicated **Web Developer** specializing in **Python** and **Django**, wi
 
 ---
 
-### 📊 Professional Metrics
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamun-2025&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun-2025&layout=compact&theme=transparent" />
-</p>
+### 📊 Activity Graph
+
+![Mamun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mamun-2025&theme=tokyonight)
 
 ---
 
