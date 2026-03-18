@@ -1,6 +1,12 @@
-# 🚀 Full-Stack Web Developer | Backend Enthusiast
+Professional GitHub README for Junior Backend Developer
+# 🚀 Junior Backend Developer | Python & Django Enthusiast
 
-I am a dedicated **Web Developer** specializing in **Python** and **Django**, with a focus on building scalable, secure, and user-centric web applications. Currently, I am focused on mastering **API Development** and **Backend Architecture** to deliver high-quality software solutions.
+I am a dedicated **Junior Backend Developer** specializing in **Python** and **Django**, focused on building **scalable, secure, and user-centric backend systems**.  
+
+I have hands-on experience in **REST API development, backend architecture, PostgreSQL, JWT authentication**, and I am also familiar with **Redis and Docker** for performance optimization and deployment.  
+
+Currently, I am working on real-world projects to strengthen my skills in **Django REST Framework, database design, and cloud deployment**, continuously learning to deliver high-quality software solutions.
+
 
 ---
 
@@ -46,4 +52,13 @@ I am a dedicated **Web Developer** specializing in **Python** and **Django**, wi
 * **GitHub:** [github.com/mamun-2025](https://github.com/mamun-2025)
 
 ---
+
+## 🌟 Tips for Recruiters
+
+- All projects are **live deployed** and **fully functional**  
+- Ready to contribute as a **Junior Backend Developer** in Python & Django projects  
+- Familiar with **modern backend tools** like Redis, Docker, JWT Authentication, and REST API design
+
+---
 *“I believe in writing code that is not only functional but also maintainable and clean.”*
+
